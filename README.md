@@ -1,3 +1,3 @@
-# Desafio To Do list - Rocketseat
+# Desafio To Do list 🚀 
 
-#### Este é um projeto de lista de tarefas feito para o desafio do Ignite Reactjs da Rocketseat, onde é possivel cadastrar uma tarefa, marcar como concluída e deletá-la.
+Este é o projeto de lista de tarefas feito para o primeiro desafio do Ignite React.js da Rocketseat, onde é possivel cadastrar uma tarefa, marcar como concluída e deletá-la. 
